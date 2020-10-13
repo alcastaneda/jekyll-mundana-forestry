@@ -3,7 +3,7 @@ layout: post
 categories: []
 title: TestPage
 author: Adriana
-image: ''
+image: "/assets/images/avatar1.jpg"
 published: false
 
 ---
